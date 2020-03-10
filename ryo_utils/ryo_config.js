@@ -36,24 +36,24 @@ export default {
     coinUnitPlaces: 9,
 
     // Minimum number of confirmations for a transaction to show as confirmed
-    txMinConfirms: 4,
+    txMinConfirms: 10,
 
     // Currency symbol
-    coinSymbol: "ARQ",
+    coinSymbol: "EVOX",
 
     // OpenAlias prefix
-    openAliasPrefix: "arqma",
+    openAliasPrefix: "evolution",
 
     // Currency name
-    coinName: "ARQ",
+    coinName: "EVOX",
 
     // Payment URI Prefix
-    coinUriPrefix: "arqma:",
+    coinUriPrefix: "evolution:",
 
     // Prefix code for addresses
-    addressPrefix: 11466,
-    integratedAddressPrefix: 1141703,
-    subaddressPrefix: 26695,
+    addressPrefix: 0x6362,
+    integratedAddressPrefix: 0x60e2,
+    subaddressPrefix: 0x5e62,
 
     // Dust threshold in atomic units
     // 2*10^6 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
