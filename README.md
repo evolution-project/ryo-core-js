@@ -1,5 +1,7 @@
 # Version moded to arqma-electron needs
 
+Big Thanks to ArQmA team for support.
+
 # Ryo Core JS
 
 ### Info
